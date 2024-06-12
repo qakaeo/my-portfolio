@@ -98,7 +98,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 - __[Machine Learning & Data Science: Complete Course with Python](https://www.udemy.com/course/machine-learning-desde-cero/)__  
 *Online course by Santiago Hernandez on Udemy*  
 A professional course covering Machine Learning fundamentals and practical Python 3 applications. Acquired in-depth understanding of ML algorithms, with an emphasis on practical problem-solving for real-world applications.
-<br>[Link to the certificate](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)
+<br>[Link to the certificate](https://www.udemy.com/certificate/UC-a038eef0-52a8-4b73-b582-09799219c9ac/)
  
 
 - __[Practical Software Testing 2023 Manual + JIRA + API + DB + Selenium](https://www.udemy.com/course/selenium-cucumber-integration/)__  
